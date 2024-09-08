@@ -7,4 +7,8 @@
 
 [Latest Release](https://github.com/SriRanjani30/Calculator/releases/latest)
 
+Requirements:
 
+1. latest python package
+2. Command prompt
+3. Basic knowledge of handling commands
